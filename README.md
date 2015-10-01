@@ -1,7 +1,7 @@
 Predicting crime in San Francisco (Kaggle)
 ==========================================
-![San Francisco](./img/sf.jpg)
 ![Kaggle](./img/kaggle.png)
+![San Francisco](./img/sf.jpg)
 
 Content
 -------
