@@ -1,12 +1,19 @@
-Predicting crime in San Francisco (Kaggle)
-==========================================
+Predicting crime in San Francisco
+=================================
 ![Kaggle](./img/kaggle.png)
-![San Francisco](./img/sf.jpg)
+
+Requirements
+------------
+* python 2.7.x
+* ipython
+* scikit-learn
+* pandas
+* matplotlib
 
 Content
 -------
-[Model/Prediction](predicition.ipynb)
-[Visualisation](visualisation.ipynb)
+* [Model/Prediction](prediction.ipynb)
+* [Visualisation](visualisation.ipynb)
 
 Results
 -------
