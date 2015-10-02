@@ -20,14 +20,15 @@ Requirements
 ------------
 * python 2.7.x
 * ipython
-* scikit-learn
-* pandas
 * matplotlib
+* pandas
+* seaborn
+* sklearn
+* sklearn-pandas
 
 Content
 -------
 * [Model/Prediction](prediction.ipynb)
-* [Visualisation](visualisation.ipynb)
 
 Results
 -------
